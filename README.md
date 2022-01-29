@@ -2,7 +2,6 @@
 
 ### 数据结构（C++）源程序
 
-
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:16.0pt;font-family:黑体;mso-hansi-font-family:"Times New Roman"'>源程序目录<span
 lang=EN-US><o:p></o:p></span></span></p>
@@ -1227,16 +1226,5 @@ lang=EN-US><o:p></o:p></span></span></p>
   style='font-size:12.0pt;line-height:150%'><o:p></o:p></span></p>
   </td>
  </tr>
- <![if !supportMisalignedColumns]>
- <tr height=0>
-  <td width=55 style='border:none'></td>
-  <td width=72 style='border:none'></td>
-  <td width=32 style='border:none'></td>
-  <td width=16 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=36 style='border:none'></td>
-  <td width=168 style='border:none'></td>
-  <td width=168 style='border:none'></td>
- </tr>
- <![endif]>
 </table
+
