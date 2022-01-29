@@ -1,10 +1,7 @@
 # DataStructure-Cpp
 
-### 数据结构（C++）源程序
+### 数据结构（C++）源程序目录
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:16.0pt;font-family:黑体;mso-hansi-font-family:"Times New Roman"'>源程序目录<span
-lang=EN-US><o:p></o:p></span></span></p>
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
